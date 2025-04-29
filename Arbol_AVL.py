@@ -1,3 +1,6 @@
+
+#Esteban Francisco Janiot Rivera -cod:2191593
+#Santiago Andres Moreno Garcia -cod:2221879
 import sys 
 
 class Node:
